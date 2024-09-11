@@ -13,7 +13,7 @@
       Cordova application as you use in your web application.
     </description>
 
-    <repo>https://github.com/MaximBelov/cordova-plugin-fbsdk</repo>
+    <repo>https://github.com/JulioApprizaPay/cordova-plugin-fbsdk</repo>
 
     <license>Apache 2.0</license>
 
@@ -26,7 +26,7 @@
     <preference name="FACEBOOK_HYBRID_APP_EVENTS" default="false" />
     <preference name="FACEBOOK_ADVERTISER_ID_COLLECTION" default="true" />
     <preference name="FACEBOOK_ANDROID_SDK_VERSION" default="17.0.0"/>
-    <preference name="FACEBOOK_IOS_SDK_VERSION" default="17.0.0"/>
+    <preference name="FACEBOOK_IOS_SDK_VERSION" default="17.1.0"/>
     <preference name="FACEBOOK_BROWSER_SDK_VERSION" default="v19.0" />
 
     <engines>
